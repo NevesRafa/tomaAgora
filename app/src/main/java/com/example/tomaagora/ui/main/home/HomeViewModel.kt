@@ -1,4 +1,4 @@
-package com.example.tomaagora.ui.main
+package com.example.tomaagora.ui.main.home
 
 import androidx.lifecycle.ViewModel
 
